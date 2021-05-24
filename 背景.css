@@ -1,0 +1,4 @@
+.bg {
+       background-image:url(背景.jpg) no-repeat center fixed bottom;
+       background-size:contain;
+}
